@@ -1,5 +1,5 @@
 # Week-1-Toy-Problems
-Week 1 Toy problems Prerequisites
+
 
 Overview This project consist of 3 challenges all created using javascript as its main language: 
 
